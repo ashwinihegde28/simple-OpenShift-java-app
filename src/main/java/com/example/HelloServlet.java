@@ -1,8 +1,8 @@
 package com.example;
 
 import java.io.*;
-import jakarta.servlet.*;
-import jakarta.servlet.http.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
 
 public class HelloServlet extends HttpServlet {
     @Override
